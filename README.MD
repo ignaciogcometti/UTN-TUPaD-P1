@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre: Ignacio Gabriel Cometti
+- **Nombre:** Ignacio Gabriel Cometti
 - **Comisión:** M2025-2
 
 ## 📂 Descripción del Repositorio  
